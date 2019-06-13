@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Non-geostrophic baroclinic instability over sloping bathymetry: buoyant flow case</title>
+      <title>Non-geostrophic baroclinic instability over sloping bathymetry: buoyant flow regime</title>
       <link>https://LixinQu.github.io/publication/qu-2019-ngbib/</link>
       <pubDate>Mon, 25 Feb 2019 00:00:00 -0600</pubDate>
       
@@ -99,10 +99,10 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://LixinQu.github.io/research/ngbib/</guid>
-      <description>&lt;p&gt;Coastal buoyancy-driven flows are often associated with stronger lateral density gradients than open ocean fronts, but are seldom observed to be associated with instabilities; in particular, baroclinic instabilities are seldom observed in river plumes, even though lateral buoyancy gradients within the fronts are strong. That contrasts the classical quasi-geostrophic (QG) theory of buoyancy-driven flow over a sloping bottom that predicts unconditional instability growth &amp;ndash; the QG assumption may not be reasonable in submesoscale, energetic coastal fronts. We extend the classical non-geostrophic theory to the scenario with a sloping bottom; the adapted theory predicts the suppression of instabilities and indicates that the slope Burger number is the parameter controlling the suppression.&lt;/p&gt;
+      <description>&lt;p&gt;Baroclinic instabilities are ubiquitous in open oceans but seldom observed in coastal zones, even though lateral density gradients within coastal fronts are often stronger than those of open ocean fronts. This study attempts to demonstrate the self-inhibiting effect of the submesoscale baroclinic instabilities in buoyancy-driven flow. We explored the non-geostrophic baroclinic instability theories adapted to the scenario with sloping bathymetry and demonstrates the suppression of instabilities, through a reduction in growth rate, in the non-geostrophic limit. Both the layered and continuously stratified models reveal that the suppression is related to a new parameter, slope-relative Burger number Sr, which has not been discussed in the literature.&lt;/p&gt;
 
-&lt;p&gt;The figure below shows the comparisons between the numerical and theoretical growth rates based on QG theory and non-geostrophic theory (numerical growth rates are calculated based on a series of non-linear numerical simulations). The non-geostrophic theory predicts more accurate growth rates than the QG theory.
-            &lt;div&gt;&lt;img src=&#34;QGNG.png&#34; alt=&#34;&#34; width=100% /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;The figure below shows the maximum growth rate of instabilities in the layered model and continuously stratified model (see the upper panel) and the comparison between the maximum growth rate and slope-relative Burger number (see the lower panel). The instability growth is found to be inhibited with increasing Sr.
+            &lt;div&gt;&lt;img src=&#34;LC.png&#34; alt=&#34;&#34; width=100% /&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
