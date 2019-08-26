@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PONG - Texas A&amp;M</title>
-    <link>https://pong-tamu.github.io/author/admin/</link>
-    <description>Recent content on PONG - Texas A&amp;M</description>
+    <title>Lixin Qu</title>
+    <link>https://LixinQu.github.io/author/admin/</link>
+    <description>Recent content on Lixin Qu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019 PONG</copyright>
+    <copyright>© 2019 Lixin Qu</copyright>
     
-	<atom:link href="https://pong-tamu.github.io/author/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://LixinQu.github.io/author/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
